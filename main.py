@@ -1,7 +1,7 @@
 import requests
 import math
 
-LOCATION = (52.547383, 13.365711)
+LOCATION = (52.518593, 13.375217)
 URL = "https://emmy.frontend.fleetbird.eu/api/prod/v1.06/map/cars/"
 # number of scooters that should be displayed
 N = 10
